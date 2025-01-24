@@ -1,0 +1,31 @@
+/* Custom Styles for Parking Receipt Application */
+
+.navbar-nav {
+    margin-left: auto; /* Aligns the navigation items to the right */
+}
+
+.form-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
